@@ -1,7 +1,6 @@
 # Проекты
 
-1. Финальный проект вариант 2 от курса karpov_courses (файл Project_Suvorova.ipynb).
-<br>
+Финальный проект вариант 2 от курса karpov_courses (файл Project_Suvorova.ipynb).
 Расширенное описание заданий продублировано в файле Project_Suvorova.ipynb.
 
 Задание 1
